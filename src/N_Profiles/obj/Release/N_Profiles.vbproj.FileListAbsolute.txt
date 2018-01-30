@@ -1,0 +1,24 @@
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\bin\Release\N_Profiles.dll
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\bin\Release\N_Profiles.pdb
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\bin\Release\N_Profiles.xml
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.DisplayForm.resources
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.Resources.resources
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.SelDataForm.resources
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.dll
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.xml
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.pdb
+C:\Users\Vicen\Documents\Visual Studio 2010\Projects\NormalizedProfiles\N_Profiles\bin\Release\N_Profiles.esriAddIn
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\bin\Release\N_Profiles.dll
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\bin\Release\N_Profiles.pdb
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\bin\Release\N_Profiles.xml
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.DisplayForm.resources
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.Resources.resources
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.SelDataForm.resources
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.vbproj.GenerateResource.Cache
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.dll
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.xml
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\Release\N_Profiles.pdb
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\bin\Release\N_Profiles.esriAddIn

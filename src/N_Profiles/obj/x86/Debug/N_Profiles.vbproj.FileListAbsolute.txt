@@ -1,0 +1,11 @@
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\bin\x86\Debug\N_Profiles.dll
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\bin\x86\Debug\N_Profiles.pdb
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\bin\x86\Debug\N_Profiles.xml
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\x86\Debug\N_Profiles.DisplayForm.resources
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\x86\Debug\N_Profiles.Resources.resources
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\x86\Debug\N_Profiles.SelDataForm.resources
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\x86\Debug\N_Profiles.vbproj.GenerateResource.Cache
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\x86\Debug\N_Profiles.dll
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\x86\Debug\N_Profiles.xml
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\obj\x86\Debug\N_Profiles.pdb
+C:\Users\vperez\Desktop\NormalizedProfiles\N_Profiles\bin\x86\Debug\N_Profiles.esriAddIn
