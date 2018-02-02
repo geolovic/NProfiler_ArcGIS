@@ -28,3 +28,6 @@ Once the Normalized profiles have been extracted, the main window will show the 
 3. Main window with the normalized profile
 4. Main parameters related to the normalized profile (note that the image does not have defined MaxC and dL, because it is a convex profile)
 5. Buttons to save / export the image or the data
+
+## References
+Pérez-Peña, J. V., Al-Awabdeh, M., Azañón, J. M., Galve, J. P., Booth-Rea, G., & Notti, D. (2017). SwathProfiler and NProfiler: Two new ArcGIS Add-ins for the automatic extraction of swath and normalized river profiles. Computers & Geosciences, 104(135), 150. https://doi.org/10.1016/j.cageo.2016.08.008
